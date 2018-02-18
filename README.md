@@ -12,3 +12,4 @@ CO2 (emissions)
 The data was obtained in December 2015 from the Ministry of Transport http://www.yme.gr/
 
 The legislation used to request the data is described in the accompanying pdf file.
+The data is provided in the XLSX format as received from the Ministry. An additional MySQL file is included for easier importing into a relational database.
